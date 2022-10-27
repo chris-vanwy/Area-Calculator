@@ -1,0 +1,14 @@
+C:\Users\crv41\Desktop\1.MSSA\1.MSSATechTraining\Assignments\Week 4\4.3\Ernesto Challenge\Ernesto Challenge\bin\Debug\netcoreapp3.1\Ernesto Challenge.exe
+C:\Users\crv41\Desktop\1.MSSA\1.MSSATechTraining\Assignments\Week 4\4.3\Ernesto Challenge\Ernesto Challenge\bin\Debug\netcoreapp3.1\Ernesto Challenge.deps.json
+C:\Users\crv41\Desktop\1.MSSA\1.MSSATechTraining\Assignments\Week 4\4.3\Ernesto Challenge\Ernesto Challenge\bin\Debug\netcoreapp3.1\Ernesto Challenge.runtimeconfig.json
+C:\Users\crv41\Desktop\1.MSSA\1.MSSATechTraining\Assignments\Week 4\4.3\Ernesto Challenge\Ernesto Challenge\bin\Debug\netcoreapp3.1\Ernesto Challenge.runtimeconfig.dev.json
+C:\Users\crv41\Desktop\1.MSSA\1.MSSATechTraining\Assignments\Week 4\4.3\Ernesto Challenge\Ernesto Challenge\bin\Debug\netcoreapp3.1\Ernesto Challenge.dll
+C:\Users\crv41\Desktop\1.MSSA\1.MSSATechTraining\Assignments\Week 4\4.3\Ernesto Challenge\Ernesto Challenge\bin\Debug\netcoreapp3.1\Ernesto Challenge.pdb
+C:\Users\crv41\Desktop\1.MSSA\1.MSSATechTraining\Assignments\Week 4\4.3\Ernesto Challenge\Ernesto Challenge\obj\Debug\netcoreapp3.1\Ernesto Challenge.csproj.AssemblyReference.cache
+C:\Users\crv41\Desktop\1.MSSA\1.MSSATechTraining\Assignments\Week 4\4.3\Ernesto Challenge\Ernesto Challenge\obj\Debug\netcoreapp3.1\Ernesto Challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crv41\Desktop\1.MSSA\1.MSSATechTraining\Assignments\Week 4\4.3\Ernesto Challenge\Ernesto Challenge\obj\Debug\netcoreapp3.1\Ernesto Challenge.AssemblyInfoInputs.cache
+C:\Users\crv41\Desktop\1.MSSA\1.MSSATechTraining\Assignments\Week 4\4.3\Ernesto Challenge\Ernesto Challenge\obj\Debug\netcoreapp3.1\Ernesto Challenge.AssemblyInfo.cs
+C:\Users\crv41\Desktop\1.MSSA\1.MSSATechTraining\Assignments\Week 4\4.3\Ernesto Challenge\Ernesto Challenge\obj\Debug\netcoreapp3.1\Ernesto Challenge.csproj.CoreCompileInputs.cache
+C:\Users\crv41\Desktop\1.MSSA\1.MSSATechTraining\Assignments\Week 4\4.3\Ernesto Challenge\Ernesto Challenge\obj\Debug\netcoreapp3.1\Ernesto Challenge.dll
+C:\Users\crv41\Desktop\1.MSSA\1.MSSATechTraining\Assignments\Week 4\4.3\Ernesto Challenge\Ernesto Challenge\obj\Debug\netcoreapp3.1\Ernesto Challenge.pdb
+C:\Users\crv41\Desktop\1.MSSA\1.MSSATechTraining\Assignments\Week 4\4.3\Ernesto Challenge\Ernesto Challenge\obj\Debug\netcoreapp3.1\Ernesto Challenge.genruntimeconfig.cache

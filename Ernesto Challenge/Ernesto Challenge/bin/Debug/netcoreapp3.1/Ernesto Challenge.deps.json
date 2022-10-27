@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Ernesto Challenge/1.0.0": {
+        "runtime": {
+          "Ernesto Challenge.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ernesto Challenge/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
